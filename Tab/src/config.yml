@@ -1,0 +1,85 @@
+#### HCTab Made By Lombok//Ossas ###
+### This Plugin Was Made For HCPride ###
+# List Of Current Strings
+# %online_players% - Amount Of Online Players
+# %ping% - Players ping to the server
+# %kills% - Players kills
+# %deaths% - Players deaths
+# %x% - Players x
+# %y% - Players y
+# %z% - Playerd z
+# %direction% - What direction the player is facing
+# %diamond% - Mined diamonds
+# %emerald% - Mined emeralds
+# %gold% - Mined gold
+# %lapis% - Mined laps
+# %redstone% - Mined redstone
+# %iron% - Mined iron
+# %coal% - Mined coal
+
+tab:
+  enabled: true
+  strings:
+########## ROW 1 ##########
+    '1': '&8&m--------------'
+    '2': ''
+    '3': '&cStats&7:'
+    '4': '&8* &cKills&7:&f %kills%'
+    '5': '&8* &cDeaths&7: &f%deaths%'
+    '6': ''
+    '7': '&cMiner Stats&7:'
+    '8': '&8* &bDiamonds&7: &f%diamond%'
+    '9': '&8* &aEmeralds&7: &f%emerald%'
+    '10': '&8* &6Gold&7: &f%gold%'
+    '11': '&8* &7Iron: &f%iron%'
+    '12': ''
+    '13': ''
+    '14': ''
+    '15': ''
+    '16': ''
+    '17': ''
+    '18': ''
+    '19': ''
+    '20': '&8&m-------------------'
+######### ROW 2 ##########
+    '21': '      &4&lHCPride'
+    '22': '&cOnline&7: &f%online_players%'
+    '23': ''
+    '24': '&cLocation&7:'
+    '25': '&7%x%, %y%, %z% [%direction%]'
+    '26': ''
+    '27': ''
+    '28': ''
+    '29': ''
+    '30': ''
+    '31': ''
+    '32': ''
+    '33': ''
+    '34': ''
+    '35': ''
+    '36': ''
+    '37': ''
+    '38': ''
+    '39': ''
+    '40': '&8&m-------------------'
+######## ROW 3 #########
+    '41': '&8&m---------------'
+    '42': ''
+    '43': '&cServer Info'
+    '44': ''
+    '45': '&8* &cPing&7: &f%ping%'
+    '46': ''
+    '47': '&8* &cEnd Portals&7:'
+    '48': '&f500, 500'
+    '49': ''
+    '50': '&8* &cMap Kit:'
+    '51': '&fProt 1, Sharp 1'
+    '52': ''
+    '53': ''
+    '54': ''
+    '55': ''
+    '56': ''
+    '57': ''
+    '58': ''
+    '59': ''
+    '60': '&8&m----------------'
